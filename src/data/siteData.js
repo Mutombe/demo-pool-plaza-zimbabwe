@@ -81,9 +81,9 @@ const siteData = {
     ctaSecondary: "View Facilities",
     trustBadge: "500+ Events & 5,000+ Members",
     backgroundImages: [
-      { url: "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=1920&q=85", alt: "One Life Aqua professional image 1" },
+      { url: "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=1920&q=85", alt: "One Life Aqua professional image 1" },
       { url: "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=1920&q=85", alt: "One Life Aqua professional image 2" },
-      { url: "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=1920&q=85", alt: "One Life Aqua showcase" },
+      { url: "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=1920&q=85", alt: "One Life Aqua showcase" },
     ],
   },
 
@@ -136,7 +136,7 @@ const siteData = {
         slug: "swimming-pools",
         desc: "Olympic-standard lap pool, recreational pool, and children's splash pool with heated options and qualified lifeguards.",
         features: ["Professional Service", "Quality Guaranteed", "Expert Team", "Competitive Pricing", "Fast Turnaround", "Full Support"],
-        image: "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
       },
       {
         title: "Swimming Lessons",
@@ -150,7 +150,7 @@ const siteData = {
         slug: "fitness-centre",
         desc: "Fully equipped gym with cardio machines, free weights, and dedicated group fitness studios.",
         features: ["Professional Service", "Quality Guaranteed", "Expert Team", "Competitive Pricing", "Fast Turnaround", "Full Support"],
-        image: "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
       },
       {
         title: "Event Venue",
@@ -164,7 +164,7 @@ const siteData = {
         slug: "kids-programmes",
         desc: "Holiday camps, swim squads, and after-school programmes that combine fitness, fun, and water safety.",
         features: ["Professional Service", "Quality Guaranteed", "Expert Team", "Competitive Pricing", "Fast Turnaround", "Full Support"],
-        image: "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
       },
       {
         title: "Wellness & Recovery",
@@ -188,9 +188,9 @@ const siteData = {
         desc: "A showcase project demonstrating our expertise in swimming pools.",
         client: "Commercial Client",
         services: ["Swimming Pools", "Swimming Lessons"],
-        image: "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
         images: [
-          "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+          "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
           "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
         ],
       },
@@ -205,7 +205,7 @@ const siteData = {
         image: "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
         images: [
           "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
-          "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+          "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
         ],
       },
       {
@@ -216,9 +216,9 @@ const siteData = {
         desc: "A showcase project demonstrating our expertise in fitness centre.",
         client: "Industrial Client",
         services: ["Fitness Centre", "Event Venue"],
-        image: "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
         images: [
-          "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+          "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
           "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
         ],
       },
@@ -233,7 +233,7 @@ const siteData = {
         image: "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
         images: [
           "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
-          "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+          "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
         ],
       },
       {
@@ -244,9 +244,9 @@ const siteData = {
         desc: "A showcase project demonstrating our expertise in kids programmes.",
         client: "Commercial Client",
         services: ["Kids Programmes", "Wellness & Recovery"],
-        image: "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
         images: [
-          "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+          "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
           "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
         ],
       },
@@ -261,7 +261,7 @@ const siteData = {
         image: "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
         images: [
           "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
-          "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+          "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=800&q=80",
         ],
       },
     ],
@@ -377,7 +377,7 @@ const siteData = {
     ctaPrimary: "Join Today",
     ctaSecondary: "Chat on WhatsApp",
     whatsappText: "Hello One Life Aqua! I would like membership/booking information.",
-    backgroundImage: "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=1920&q=85",
+    backgroundImage: "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=1920&q=85",
   },
 
   footer: {
